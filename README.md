@@ -3,7 +3,7 @@
 https://cloudresumechallenge.dev/docs/extensions/kubernetes-challenge/
 
 ## TODO
-*Helm
-*Terraform
-*CI/CD github action
+* Helm
+* Terraform
+* CI/CD github action
 
